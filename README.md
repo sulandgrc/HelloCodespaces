@@ -7,3 +7,4 @@
 5. In VSCode Codespace, click the Source Control icon with the blue 1 - See pending changes
 6. Add a description of change and Commit the changes to your CodeSpaces VM
 7. Sync to your GitHub repo
+8. Work in Terminal - try ls -al . current working directory .git folder has info about github repo .. goes one folder up
